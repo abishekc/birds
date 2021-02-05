@@ -9,8 +9,6 @@ project:
       url: 'https://aqueous-journey-76697.herokuapp.com'
     travis:
       url: 'https://travis-ci.org/github/abishekc/birds'
-    codecov:
-      url: 'url'
   members:
     member1:
       name: 'Rowen'
