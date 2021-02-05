@@ -4,9 +4,9 @@ project:
   teamId: '1'
   identities:
     pivotal:
-      url: 'https://www.pivotaltracker.com/projects/2487945'
+      url: 'https://www.pivotaltracker.com/n/projects/2487945'
     heroku:
-      url: 'https://aqueous-journey-76697.herokuapp.com'
+      url: 'https://aqueous-journey-76697.herokuapp.com/'
     travis:
       url: 'https://travis-ci.org/github/abishekc/birds'
   members:
